@@ -1,8 +1,5 @@
-# Arduino Repository #
-
-## Contents ##
-- *PS2Emu* (PS/2 device and host emulation)
-- *SunSerial* (Serial communication with Sun Type 4/5)
+# PS2Emu #
+PS/2 device and host emulation
 
 ## Notes ##
 - These libraries and sketches are by no means done! I'm
